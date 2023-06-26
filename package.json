@@ -6,7 +6,8 @@
   "scripts": {
     "start": "nodemon server.js",
     "server": "node server.js",
-    "build": "echo sucess"
+    "build": "echo sucess",
+    "postinstall": "npm rebuild --verbose sharp"
   },
   "author": "nitin",
   "license": "ISC",
