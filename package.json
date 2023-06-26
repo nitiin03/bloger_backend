@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon server.js",
     "server": "node server.js",
-    "build":"echo sucess"
+    "build": "echo sucess"
   },
   "author": "nitin",
   "license": "ISC",
@@ -23,7 +23,6 @@
     "mongoose": "^7.0.4",
     "multer": "^1.4.5-lts.1",
     "nodemailer": "^6.9.1",
-    "nodemon": "^2.0.22",
-    "sharp": "^0.32.1"
+    "nodemon": "^2.0.22"
   }
 }
