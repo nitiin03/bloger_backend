@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
-    "server": "node server.js"
+    "server": "node server.js",
+    "build":"echo sucess"
   },
   "author": "nitin",
   "license": "ISC",
