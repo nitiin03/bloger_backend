@@ -4,7 +4,7 @@
   "description": "Blog Application",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "nodemon server.js",
     "server": "node server.js",
     "build": "echo sucess",
     "postinstall": "npm rebuild --verbose sharp"
